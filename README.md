@@ -4,6 +4,8 @@
 
 ## 👋 About Me
 **Full Stack Developer** passionate about creating innovative solutions
+[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=Gmail&logoColor=white)](mailto:your-email@gmail.com)
+[![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=Discord&logoColor=white)](https://discord.com/users/your-discord-id)
 
 ## 📊 GitHub Stats
 
@@ -86,19 +88,6 @@
   <img src="https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=Redux&logoColor=white">
   <img src="https://img.shields.io/badge/Recoil-0179f3?style=for-the-badge&logo=Recoil&logoColor=white">
 </p>
-
----
-
-
-
-## 📫 Contact Me
-
-<div align="center">
-  
-[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=Gmail&logoColor=white)](mailto:your-email@gmail.com)
-[![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=Discord&logoColor=white)](https://discord.com/users/your-discord-id)
-
-</div>
 
 ---
 
