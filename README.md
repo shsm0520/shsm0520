@@ -47,7 +47,7 @@
 
 <table align="center" border="0" cellpadding="15" cellspacing="0" width="100%">
 <tr>
-<td align="center" width="50%">
+<td align="center" width="100%">
 
 ### **🔧 Languages**
 <p align="center">
