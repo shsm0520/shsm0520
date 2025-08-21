@@ -50,7 +50,6 @@
   <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=Java&logoColor=white">
   <img src="https://img.shields.io/badge/Javascript-F7DF1E?style=for-the-badge&logo=Javascript&logoColor=black">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white">
-  <br>
   <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=C%2B%2B&logoColor=white">
   <img src="https://img.shields.io/badge/...-808080?style=for-the-badge&logoColor=white">
 </p>
@@ -60,7 +59,6 @@
   <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=React&logoColor=black">
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=Node.js&logoColor=white">
   <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=Spring-Boot&logoColor=white">
-  <br>
   <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=MySQL&logoColor=white">
   <img src="https://img.shields.io/badge/Expo-000020?style=for-the-badge&logo=Expo&logoColor=white">
   <img src="https://img.shields.io/badge/...-808080?style=for-the-badge&logoColor=white">
@@ -71,11 +69,9 @@
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=Docker&logoColor=white">
   <img src="https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=Jenkins&logoColor=white">
   <img src="https://img.shields.io/badge/Cloud-FF9900?style=for-the-badge&logo=Amazon-AWS&logoColor=white">
-  <br>
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=Linux&logoColor=black">
   <img src="https://img.shields.io/badge/Hypervisor-E57000?style=for-the-badge&logo=Proxmox&logoColor=white">
   <img src="https://img.shields.io/badge/NAS-0066CC?style=for-the-badge&logo=Synology&logoColor=white">
-  <br>
   <img src="https://img.shields.io/badge/...-808080?style=for-the-badge&logoColor=white">
 </p>
 
