@@ -42,75 +42,53 @@
 
 ---
  -->
- 
-## 🛠️ Tech Stack
 
 ## 🛠️ Tech Stack
 
-### **Languages**
+<table align="center" border="0" cellpadding="10" cellspacing="0">
+<tr>
+<td align="center" width="50%">
+
+### **🔧 Languages**
 <p align="center">
   <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=Java&logoColor=white">
   <img src="https://img.shields.io/badge/Javascript-F7DF1E?style=for-the-badge&logo=Javascript&logoColor=black">
+  <br>
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white">
   <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=C%2B%2B&logoColor=white">
-  <img src="https://img.shields.io/badge/Matlab-0076a8?style=for-the-badge&logo=Mathworks&logoColor=white">
   <img src="https://img.shields.io/badge/...-808080?style=for-the-badge&logoColor=white">
 </p>
 
-### **Frontend**
+### **💻 Development**
 <p align="center">
   <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=React&logoColor=black">
-  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=Next.js&logoColor=white">
-  <img src="https://img.shields.io/badge/React_Native-61DAFB?style=for-the-badge&logo=React&logoColor=black">
-  <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=Tailwind-CSS&logoColor=white">
-  <img src="https://img.shields.io/badge/...-808080?style=for-the-badge&logoColor=white">
-</p>
-
-### **Backend & Database**
-<p align="center">
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=Node.js&logoColor=white">
+  <br>
   <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=Spring-Boot&logoColor=white">
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=MySQL&logoColor=white">
-  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=MongoDB&logoColor=white">
-  <img src="https://img.shields.io/badge/...-808080?style=for-the-badge&logoColor=white">
-</p>
-
-<table align="center">
-<tr>
-<td valign="top" width="50%">
-
-### **Mobile & Design**
-<p align="center">
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=MySQL&logoColor=white">
+  <br>
   <img src="https://img.shields.io/badge/Expo-000020?style=for-the-badge&logo=Expo&logoColor=white">
-  <img src="https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=iOS&logoColor=white">
-  <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=Android&logoColor=white">
-  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=Figma&logoColor=white">
-  <img src="https://img.shields.io/badge/...-808080?style=for-the-badge&logoColor=white">
-</p>
-
-### **State Management**
-<p align="center">
-  <img src="https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=Redux&logoColor=white">
-  <img src="https://img.shields.io/badge/Recoil-0179f3?style=for-the-badge&logo=Recoil&logoColor=white">
   <img src="https://img.shields.io/badge/...-808080?style=for-the-badge&logoColor=white">
 </p>
 
 </td>
-<td valign="top" width="50%">
+<td align="center" width="50%">
 
-### **DevOps & Tools**
+### **🚀 DevOps & Infrastructure**
 <p align="center">
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=Docker&logoColor=white">
   <img src="https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=Jenkins&logoColor=white">
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=Git&logoColor=white">
+  <br>
+  <img src="https://img.shields.io/badge/Cloud-FF9900?style=for-the-badge&logo=Amazon-AWS&logoColor=white">
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=Linux&logoColor=black">
+  <br>
+  <img src="https://img.shields.io/badge/Hypervisor-E57000?style=for-the-badge&logo=Proxmox&logoColor=white">
+  <img src="https://img.shields.io/badge/NAS-0066CC?style=for-the-badge&logo=Synology&logoColor=white">
   <img src="https://img.shields.io/badge/...-808080?style=for-the-badge&logoColor=white">
 </p>
 
-### **Infrastructure & Security**
+### **🛡️ Security**
 <p align="center">
-  <img src="https://img.shields.io/badge/Cloud-FF9900?style=for-the-badge&logo=Amazon-AWS&logoColor=white">
-  <img src="https://img.shields.io/badge/Proxmox-E57000?style=for-the-badge&logo=Proxmox&logoColor=white">
   <img src="https://img.shields.io/badge/Firewall-FF6B35?style=for-the-badge&logo=Security&logoColor=white">
   <img src="https://img.shields.io/badge/WAF-4A90E2?style=for-the-badge&logo=Shield&logoColor=white">
   <img src="https://img.shields.io/badge/...-808080?style=for-the-badge&logoColor=white">
@@ -119,6 +97,5 @@
 </td>
 </tr>
 </table>
-
 ---
 
