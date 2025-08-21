@@ -45,10 +45,6 @@
 
 ## 🛠️ Tech Stack
 
-<table align="center" border="0" cellpadding="15" cellspacing="0" width="100%">
-<tr>
-<td align="center" width="100%">
-
 ### **🔧 Languages**
 <p align="center">
   <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=Java&logoColor=white">
@@ -90,8 +86,5 @@
   <img src="https://img.shields.io/badge/...-808080?style=for-the-badge&logoColor=white">
 </p>
 
-</td>
-</tr>
-</table>
 ---
 
