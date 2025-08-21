@@ -70,9 +70,6 @@
   <img src="https://img.shields.io/badge/...-808080?style=for-the-badge&logoColor=white">
 </p>
 
-</td>
-<td align="center" width="50%">
-
 ### **🚀 DevOps & Infrastructure**
 <p align="center">
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=Docker&logoColor=white">
