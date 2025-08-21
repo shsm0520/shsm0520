@@ -1,5 +1,5 @@
 <div align="center">
-    <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&text=Hi%20there!&animation=fadeIn&fontColor=ffffff&fontSize=60" />
+    <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&text=Hi,%20I’m%20SeunghunLEE&animation=fadeIn&fontColor=ffffff&fontSize=60" /> 
 </div>
 
 ## 👋 About Me
