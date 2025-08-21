@@ -20,6 +20,7 @@
 </td>
 </tr>
 </table>
+
 ---
 
 ## 🏆 GitHub Trophies
