@@ -6,12 +6,19 @@
 **Full Stack Developer** passionate about creating innovative solutions
 
 ## 📊 GitHub Stats
-
-<p align="center">
-  <img height="140em" src="https://github-readme-stats.vercel.app/api?username=shsm0520&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true"/>
-  <img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shsm0520&layout=compact&langs_count=6&theme=tokyonight&hide_border=true"/>
-  <img height="140em" src="https://github-readme-streak-stats.herokuapp.com/?user=shsm0520&theme=tokyonight&hide_border=true" />
-</p>
+<table align="center" cellpadding="0" cellspacing="0" border="0">
+<tr>
+  <td align="center">
+    <img height="130" src="https://github-readme-stats.vercel.app/api?username=shsm0520&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true"/>
+  </td>
+  <td align="center">
+    <img height="130" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shsm0520&layout=compact&langs_count=6&theme=tokyonight&hide_border=true"/>
+  </td>
+  <td align="center">
+    <img height="130" src="https://github-readme-streak-stats.herokuapp.com/?user=shsm0520&theme=tokyonight&hide_border=true"/>
+  </td>
+</tr>
+</table>
 
 ---
 
