@@ -19,7 +19,7 @@
 
 ## 📊 GitHub Stats
 
-<table>
+<table align="center">
 <tr>
 <td align="center" style="border: none;">
 <img height="130" src="https://github-readme-stats.vercel.app/api?username=shsm0520&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true"/>
