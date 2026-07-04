@@ -28,20 +28,12 @@
 <img height="130" src="https://github-stats-extended.vercel.app/api/top-langs/?username=shsm0520&layout=compact&langs_count=6&theme=tokyonight&hide_border=true"/>
 </td>
 <td align="center" style="border: none;">
-<img height="130" src="https://github-stats-extended.vercel.app/api?user=shsm0520&theme=tokyonight&hide_border=true"/>
+<img height="130" src="https://github-stats-extended.vercel.app/api?username=shsm0520&theme=tokyonight&hide_border=true"/>
 </td>
 </tr>
 </table>
 
----
-<!-- 
-## 🏆 GitHub Trophies
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=shsm0520&theme=onedark&no-frame=true&row=1&column=6" />
-</div>
 
----
- -->
 
 ## 🛠️ Tech Stack
 
